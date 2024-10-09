@@ -1,7 +1,7 @@
 package org.example;
 import java.util.Scanner;
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+//ES UN PROGRAMA QUE TE DA EL DIA MES Y AÑO REALES QUE TU LE PONGAS
+
 public class Prueba {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
