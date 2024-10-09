@@ -18,7 +18,7 @@ public class Prueba {
          String mes11=noviembre;
          String mes12=diciembre;*/
     //Aqui quiero corresponder el numero que me pongas al mes casi exacto
-        //ej: dame un mes:230 -> finales de octubre
+        //ej: dame un mes:230 -> error solo existen 12 meses y cuando ponga un numero entre 1 -12 que diga el mes al que le corresponda
 
 
         long dia;
