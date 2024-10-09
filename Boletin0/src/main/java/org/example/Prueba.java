@@ -1,6 +1,6 @@
 package org.example;
 import java.util.Scanner;
-//ES UN PROGRAMA QUE TE DA EL DIA MES Y AÑO REALES QUE TU LE PONGAS
+//ES UN PROGRAMA QUE A PARTIR DEL NUMERO QUE LE DES DICE EL DIA,MES Y AÑO EXISTENTES(EN FORMA DE NUMERO)
 
 public class Prueba {
     public static void main(String[] args) {
@@ -17,7 +17,8 @@ public class Prueba {
          String mes10=octubre;
          String mes11=noviembre;
          String mes12=diciembre;*/
-
+    //Aqui quiero corresponder el numero que me pongas al mes casi exacto
+        //ej: 230 -> finales de octubre
 
 
         long dia;
